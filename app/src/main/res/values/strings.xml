@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AR!CAdaption</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="ar_content">Character\nAdaption</string>
+    <string name="inputAddr">Please input the render server ip address</string>
+    <string name="inputPort">Please input the render server port</string>
+</resources>
