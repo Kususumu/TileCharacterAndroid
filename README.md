@@ -5,15 +5,14 @@
 
 ![image](https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/MobileFront.png)
  
- Function:
+ # Function:
  
- // menu
+ ## menu
+ <img src="https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/menu.jpg" width="234" height="108"> 
  
- ![image](https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/menu.jpg)
- 
- // show floor:
- 
- ![image](https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/floor.jpg)
+ 3# show floor:
+ <img src="https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/floor.jpg" width="234" height="108">
+
  
  // mousepick
  
