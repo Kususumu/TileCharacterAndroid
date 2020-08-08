@@ -2,12 +2,12 @@
  Android Froint end of Tile Character Animation
  
  The architecture of the front
-
-![image](https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/MobileFront.png)
+ 
+ <img src="https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/MobileFront.png" width="300" height="137">
  
  # Function:
  
- # menu + show floor + mousepick + tcp + show background
+ ### Menu + Show floor + Mousepick + Tcp + Show background
  <img src="https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/menu.jpg" width="234" height="108"> |
  <img src="https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/floor.jpg" width="234" height="108"> |
  <img src="https://github.com/Kususumu/TileCharacterAndroid/blob/master/doc/mousepick.jpg" width="234" height="108"> 
